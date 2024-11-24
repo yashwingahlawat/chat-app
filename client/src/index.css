@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient {
+  background: linear-gradient(135deg, #414141, #000000);
+}
+
+.blueGradient {
+  background: linear-gradient(to right, #ea7070, #2d295a);
+}
+
+.senderMsgGradient {
+  background: linear-gradient(to right, #6b7280, #4b5563);
+  /* You can adjust the direction and colors as needed */
+}
